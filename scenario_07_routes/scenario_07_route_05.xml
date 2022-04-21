@@ -12,8 +12,8 @@
          fog_distance="0"
          wetness="0"
       />
-      <waypoint pitch="360.0" roll="0.0" x="-160" y="-153.4" yaw="0" z="0" />
-      <waypoint pitch="360.0" roll="0.0" x="-145" y="-153.4" yaw="0" z="0" />
-      <waypoint pitch="360.0" roll="0.0" x="-101" y="-153.4" yaw="0" z="0" />
+      <waypoint pitch="360.0" roll="0.0" x="98" y="-40" yaw="90" z="0" />
+      <waypoint pitch="360.0" roll="0.0" x="98" y="-15" yaw="90" z="0" />
+      <waypoint pitch="360.0" roll="0.0" x="98" y="21" yaw="90" z="0" />
    </route>
 </routes>
